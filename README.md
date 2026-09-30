@@ -43,6 +43,9 @@ The application demonstrates the relationship between training data and AI respo
 6. The user can balance the training data.
 7. The model is retrained and the results are compared.
 
+### Demo 
+https://llm-bias-demonstration-twq3wvbskyokg4pyjde3a6.streamlit.app/
+
 ### Architecture
 
 <img width="3150" height="7107" alt="diagram" src="https://github.com/user-attachments/assets/28874b1c-f169-433d-8b00-5aef37139e4a" />
