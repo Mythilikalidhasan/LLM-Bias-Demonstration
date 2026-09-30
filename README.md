@@ -43,10 +43,10 @@ The application demonstrates the relationship between training data and AI respo
 6. The user can balance the training data.
 7. The model is retrained and the results are compared.
 
-###  Architecture
+### Architecture
 
+[![Architecture diagram of mythilikalidhasan/llm-bias-demonstration](https://gitdiagram.com/mythilikalidhasan/llm-bias-demonstration/diagram.png)](https://gitdiagram.com/mythilikalidhasan/llm-bias-demonstration?utm_source=readme&utm_medium=picture)
 
-.
 
 ## Future Enhancements
 
