@@ -45,7 +45,7 @@ The application demonstrates the relationship between training data and AI respo
 
 ### Architecture
 
-[![Architecture diagram of mythilikalidhasan/llm-bias-demonstration](https://gitdiagram.com/mythilikalidhasan/llm-bias-demonstration/diagram.png)](https://gitdiagram.com/mythilikalidhasan/llm-bias-demonstration?utm_source=readme&utm_medium=picture)
+<img width="3150" height="7107" alt="diagram" src="https://github.com/user-attachments/assets/28874b1c-f169-433d-8b00-5aef37139e4a" />
 
 
 ## Future Enhancements
